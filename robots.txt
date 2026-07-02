@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /_astro/
 
-Sitemap: https://apollo5211.github.io/sitemap-index.xml
+Sitemap: https://apollo5211.github.io/sitemap.xml
